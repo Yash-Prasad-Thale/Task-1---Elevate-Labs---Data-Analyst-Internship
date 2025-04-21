@@ -1,4 +1,4 @@
-1. Gave appropriate data types to the Data columns.
+1. Gave appropriate data types to the Data columns in both Power Bi and Excel.
 2. Sorted Data by Year, Month, Day. 
 3. Removed Duplicate rows using Power Bi.
-4. Formatted headings in all lowercase.
+4. Formatted headings in all lowercase in Power Bi.
